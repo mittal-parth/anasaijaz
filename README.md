@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **MongoDB apps**
 
-- 👨‍💻 All of my projects are available at [anasaijaz.github.io](anasaijaz.github.io)
+- 👨‍💻 All of my projects are available at [anasaijaz.github.io](https://anasaijaz.github.io)
 
 - 📝 I regularly write articles on [https://dev.to/anasaijaz](https://dev.to/anasaijaz)
 
